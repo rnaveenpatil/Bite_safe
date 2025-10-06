@@ -1,6 +1,6 @@
-🐞 Meghashree Bros Insect Collections App
+🐞Byte_safe Insect Collections App
 
-Meghashree Bros Insect Collections App is a full-stack mobile application built using the Flutter framework, designed exclusively for Android OS. This app allows users to pick an image of an insect from their device’s gallery and instantly retrieve detailed information about that insect.
+Byte_safe Insect Collections App is a full-stack mobile application built using the Flutter framework, designed exclusively for Android OS. This app allows users to pick an image of an insect from their device’s gallery and instantly retrieve detailed information about that insect.
 
 ⚙️ Features
 
@@ -18,7 +18,7 @@ Perfect for college projects or as a demonstration of Flutter + API integration
 
 Clone the repository:
 
-git clone git@github.com:rnaveenpatil/meghashree_bros_insect_collections_app.git
+git clone git@github.com:rnaveenpatil/Byte_safe Insect Collections App.git
 
 
 Install Flutter SDK – Official Flutter Installation Guide
