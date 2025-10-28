@@ -10,6 +10,8 @@ Built entirely with Flutter for a smooth and modern user experience
 
 Works seamlessly on Android devices
 
+
+
 Allows users to upload or select an image from the gallery
 
 Uses Gemini APIs on the backend to gather and process insect information
