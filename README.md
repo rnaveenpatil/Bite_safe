@@ -6,6 +6,9 @@ Byte_safe Insect Collections App is a full-stack mobile application built using 
 
 
 
+
+
+
 Built entirely with Flutter for a smooth and modern user experience
 
 Works seamlessly on Android devices
