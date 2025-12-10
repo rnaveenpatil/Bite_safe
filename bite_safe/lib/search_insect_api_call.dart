@@ -23,7 +23,7 @@ class GeminiApiService {
   GeminiApiService({required this.apiKey});
 
   void updateApiKey(String newApiKey) {
-    apiKey = "AIzaSyBqrJ7GWVhkB9wl90vD5sSrlxKHmH_KSe8";
+    apiKey = "GET your gemini API first nigga" ;
   }
 
   Future<GeminiResponse> analyzeInsectQuery(String userQuery) async {
