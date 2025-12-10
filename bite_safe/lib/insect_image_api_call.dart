@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:flutter/foundation.dart';
 
 class GeminiService {
-  static const String _apiKey = "AIzaSyBqrJ7GWVhkB9wl90vD5sSrlxKHmH_KSe8";
+  static const String _apiKey = "GET YOUR GEMINI api key first lodes";
   static const String _baseUrl = "https://generativelanguage.googleapis.com/v1beta";
 
   // Use only working vision models
